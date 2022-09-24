@@ -1,0 +1,94 @@
+resumemaker.online
+
+for resume
+ - One page
+ - Relavant Skills
+ - Personalized
+ - Online Link (very important)
+
+resume-cheatsheet:
+https://github.com/aneagoie/resume-checklist
+
+- Use a pre-designed resume template
+- Make the resume fit on 1 page
+- Include words from job description
+- Include company name you are applying to
+- Does your first item on your resume reflect what they are looking for?
+- Experience titles demonstrate value
+- Do you have an online link?
+- Remove the word “I”
+- No buzzwords describing how great you are
+- Are you using Action words?
+- Measure everything in terms of impact, don’t just describe your responsibilities
+- Technical Knowledge/Skills should include what they are looking for. Only show years if it is impressive
+- Include only sections/items that are impressive: Experience, Projects, Education, Technical Skills
+- No typos or bad grammar
+
+------
+What if I don't have enough experience?
+- Github
+- Website
+- 1 ~ 2 Big Projects
+- Blog (very important)
+  - creating medium account
+  - post in publishers, like hackernoon
+
+------
+
+LinkedIn
+
+- Have people enorse you
+- Small update can be detected by recruiters
+
+------
+
+Portfolio
+
+-
+-
+
+------
+
+Email
+- 30% hired came from referrals
+- Email template
+```
+Hey $BOB
+
+I saw your presentation at $CONFERENCE last year on Youtube.
+Great stuff; love what you did with $FOO, in particular $COMMENT_PROVING_YOU_KNOW_WHAT_YOU'RE_TALKING_ABOUT.
+I'm also a $FOO developer. I noticed that your company is hiring
+for $ROLE. I'd love to be a part of your team. Do you have a 
+few minutes to chat on Thursday about what you guys are doing?
+
+Thanks,
+Yourname
+Your website or any public profile link
+```
+
+------
+
+Where to find the jobs?
+- linkedIn
+- hackernews - (google "hackernews who is hiring") (example: https://news.ycombinator.com/item?id=32677265)
+- angel.co (angelList) (if looking for startups)
+- weworkremotely.com (for remote jobs)
+- hired.ca (have companies reaching out to them to hire)
+- triplebyte.com (have companies reaching out to them to hire)
+- meetup (going for meeting up and networking)
+- google-search "site:linkedin.com facebook recruiter" (if you wanna apply in facebook)
+
+
+
+------
+
+When should you Start Applying?
+- Now
+- Skill that can be improve at
+- Assessing readiness
+
+------
+
+
+
+------

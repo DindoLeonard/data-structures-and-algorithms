@@ -1,0 +1,27 @@
+resumemaker.online - for creating resume builder
+jobscan.co - to tell how well your resume does
+https://stackoverflow.blog/2020/11/25/how-to-write-an-effective-developer-resume-advice-from-a-hiring-manager/ - writing good resume article
+https://thisresumedoesnotexist.com/ - AI resume
+https://www.cakeresume.com/Engineering-resume-samples - sample templates for resume
+
+# emails
+find anyon'e email - Contact Out - chrome extension
+Hunter - chrome extension
+Email Extractor - chrome extension
+
+# resources to find jobs
+- https://www.linkedin.com/jobs/
+- hackernews - (google "hackernews who is hiring") (example: https://news.ycombinator.com/item?id=32677265)
+- https://angel.co/jobs
+# remote jobs
+- https://designmodo.com/jobs/
+- https://weworkremotely.com/
+- https://remoteok.io/
+# others
+- https://hired.com/x/a17a64b1eafce885d204c36fe3e66831 (have companies reaching out to them to hire)
+- https://whitetruffle.com/
+- https://www.ziprecruiter.com/
+- https://www.meetup.com/ (for meeting personally)
+- google-search "site:linkedin.com facebook recruiter" (if you wanna apply in facebook)
+
+
