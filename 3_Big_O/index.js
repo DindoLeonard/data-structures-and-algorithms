@@ -89,3 +89,28 @@ logAllPairsOfArray(boxes3);
 // if result is O(n + n^2)
 // choose the most dominant term and drop the other, sor result would be:
 // O(n^2)
+
+/**
+ * SPACE COMPLEXITY
+ */
+function booo() {
+  // O(1) because you allocate memory for `let i = 0`
+  for (let i = 0; i < nemo.length; i += 1) {
+    console.log('boooooo!');
+  }
+}
+
+booo([1, 2, 3, 4, 5]); // O(1)
+
+/**
+ * Input a number
+ * @param {number} n
+ */
+function arrayOfHiNTimes(n) {
+  let hiArray = []; // O(1)
+  for (let i = 0; i < n; i += 1) {
+    // i is O(1)
+    hi[i] = 'hi'; // O(n)
+  }
+}
+arrayOfHiNTimes(6); // O(n)
