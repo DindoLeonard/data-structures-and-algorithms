@@ -16,3 +16,11 @@ strings.unshift('x'); // O(n)
 strings.splice(2, 0, 'alien'); // O(n)
 
 console.log(strings);
+
+// C++
+/* Static array in C++
+// create array of 20
+in a[20];
+// create array of 5 and insert
+int b[5] {1,2,3,4,5}
+*/
