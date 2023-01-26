@@ -65,3 +65,38 @@ console.log(myStack);
 //Discord
 //Udemy
 //google
+
+class StackArray {
+  constructor() {
+    this.array = [];
+  }
+  peek() {
+    if (this.array.length === 0) {
+      return null;
+    }
+    console.log('peek', this.array[this.array.length - 1]);
+    return this.array[this.array.length - 1];
+  }
+  push(value) {
+    this.array.push(value);
+    return this;
+  }
+  pop() {
+    this.array.pop();
+    return this;
+  }
+  //isEmpty
+}
+
+const myStack2 = new StackArray();
+
+myStack2.push('google');
+myStack2.push('Udemy');
+myStack2.push('Discord');
+console.log(myStack2);
+myStack2.peek();
+myStack2.pop();
+myStack2.pop();
+console.log('after pop');
+myStack2.peek();
+console.log(myStack2);
