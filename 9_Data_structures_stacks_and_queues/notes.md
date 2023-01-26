@@ -46,3 +46,18 @@
   - very inefficient, removing the first item will shift all other indexes
 
 ---
+
+## Stacks + Queues
+
+## pros & cons
+
+- Pros
+
+  1. Fast Operations
+  2. Fast Peek
+  3. Oredered
+
+- Cons
+  1. Slow Lookup
+
+---
