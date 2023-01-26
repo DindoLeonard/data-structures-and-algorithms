@@ -171,6 +171,7 @@ class LinkedList {
     return prev;
   }
 
+  // best
   reverse3() {
     let head = this.head;
 
