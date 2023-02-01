@@ -65,7 +65,7 @@ class BinaryTreeNode() {
 - steps or height means the maximum number of decisions of a tree
 
   ```
-        O           is this what u looking for? = 1
+        x           is this what u looking for? = 1
       /   \
      0     x        is it this?                 = 2
     /\     /\
