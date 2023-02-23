@@ -1,5 +1,3 @@
-"use strict";
-
 // Directed Acyclic Graphs
 
 // Edge List

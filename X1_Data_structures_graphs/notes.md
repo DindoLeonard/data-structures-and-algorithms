@@ -31,3 +31,10 @@
 - Cyclic & Acyclic
 - Cyclic can go to other node and other node and back, like full circle
 - Acyclic - where you can't do that
+
+## PROS and CONS
+
+- PROS
+  - Relationships
+- CONS
+  - Scaling is hard
