@@ -91,3 +91,30 @@ function fibonacciRecursive(n) {
   return fibonacciRecursive(n - 1) + fibonacciRecursive(n - 2);
 }
 console.log(fibonacciRecursive(40));
+
+//Implement a function that reverses a string using iteration...and then recursion!
+let stringArr = [];
+let reverseSeq = 1;
+function reverseString(str) {
+  if (stringArr.length === str.length) {
+    console.log(stringArr);
+    return stringArr.join('');
+  }
+  stringArr.push(str[str.length - reverseSeq]);
+  reverseSeq++;
+  return reverseString(str);
+}
+
+const result = reverseString('yoyo mastery');
+console.log(result);
+//should return: 'yretsam oyoy'
+
+function reverseString2(str) {
+  // this is andrei's
+  if (str === '') {
+    return '';
+  } else {
+    return reverseString2(str.substr(1)) + str.charAt(0);
+  }
+}
+console.log(reverseString2('dindo'));
