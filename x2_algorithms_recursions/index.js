@@ -46,3 +46,48 @@ function findFactorialIterative(number) {
 }
 
 console.log(findFactorialIterative(5));
+
+// ----------
+
+// Given a number N return the index value of the Fibonacci sequence, where the sequence is:
+
+// 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144 ...
+// the pattern of the sequence is that each value is the sum of the 2 previous values, that means that for N=5 → 2+3
+
+//For example: fibonacciRecursive(6) should return 8
+function fibonacciIterative(n) {
+  // O(n)
+  //code here;
+  // let arr = [0, 1];
+  // for (let i = 2; i <= n; i++) {
+  //   arr.push(arr[i - 2] + arr[i - 1]);
+  // }
+  // return arr[n];
+
+  let a = 0; // this is going to be the first num
+  let b = 1; // this is going to be the second num
+  let temp = 0; // this is going to hold a temporary variable
+
+  for (let i = 2; i <= n; i++) {
+    // what happens here is that we are like traversing through the next number for each iteration
+    temp = b; // hold the b terporarily;
+    b = a + b; // making b going to be the result of the previous 2 numbers, which then is going to be used for the next iteration
+    a = temp; // making a going to be the previous b
+  }
+  return b;
+}
+console.log(fibonacciIterative(50));
+
+// example, in sequence 6 which is number 8
+// the 8 is because of sequence #4 + sequence #5, which is 3 + 5, resulted to 8
+// O(2^n)  because we are using 2 recursive inside
+function fibonacciRecursive(n) {
+  // O(2^n)
+  //code here;
+  if (n <= 1) {
+    return n;
+  }
+
+  return fibonacciRecursive(n - 1) + fibonacciRecursive(n - 2);
+}
+console.log(fibonacciRecursive(40));
