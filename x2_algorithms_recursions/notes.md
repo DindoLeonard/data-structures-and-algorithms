@@ -70,3 +70,9 @@ function inception() {
   - Each instance fo the subproblem is identical in nature
   - The solutions of each subproblem can be combined to solve the problem at hand
 - Divide and Conquer usign Recursion
+
+- Usually used in:
+  - Merge Sort
+  - Quick Sort
+  - Tree Traversal
+  - Graph Traversal
